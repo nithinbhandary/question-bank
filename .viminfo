@@ -8,8 +8,8 @@
 # hlsearch on (H) or off (h):
 ~H
 # Command Line History (newest to oldest):
-:q
 :wq
+:q
 :q!
 
 # Search String History (newest to oldest):
@@ -23,18 +23,22 @@
 # Registers:
 
 # File marks:
-'0  1  4  ~/public/script.js
-'1  13  34  ~/.bash_profile
-'2  1  0  ~/.bashprofile
-'3  1  0  ~/package-lock.json
-'4  3  34  ~/public/script.js
-'5  2  2  ~/public/script.js
-'6  24  2  ~/public/index.html
-'7  1  0  ~/firebase.json
-'8  1  0  ~/public/404.html
-'9  1  0  ~/in
+'0  8  28  ~/package.json
+'1  7  57  ~/package.json
+'2  2  1  ~/package.json
+'3  1  4  ~/public/script.js
+'4  13  34  ~/.bash_profile
+'5  1  0  ~/.bashprofile
+'6  1  0  ~/package-lock.json
+'7  3  34  ~/public/script.js
+'8  2  2  ~/public/script.js
+'9  24  2  ~/public/index.html
 
 # Jumplist (newest first):
+-'  8  28  ~/package.json
+-'  7  4  ~/package.json
+-'  2  2  ~/package.json
+-'  1  0  ~/package.json
 -'  1  4  ~/public/script.js
 -'  3  8  ~/public/script.js
 -'  13  34  ~/.bash_profile
@@ -128,12 +132,16 @@
 -'  58  0  ~/public/Style1.Css
 -'  1  0  ~/public/Style1.Css
 -'  461  2  ~/public/App.Js
--'  1  0  ~/public/App.Js
--'  58  0  ~/public/Style1.Css
--'  1  0  ~/in
--'  60  0  ~/public/style.css
 
 # History of marks within files (newest to oldest):
+
+> ~/package.json
+	"	8	28
+	^	8	29
+	.	8	28
+	+	8	23
+	+	7	57
+	+	8	28
 
 > ~/public/script.js
 	"	1	4
