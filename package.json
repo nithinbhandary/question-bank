@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/nithinbhandary/question-bank/issues"
   },
-  "homepage": "https://github.com/nithinbhandary/question-bank#readme"
+  "homepage": "https://github.com/nithinbhandary/question-bank#readme",
+  "dependencies": {
+    "firebase": "^9.15.0"
+  }
 }

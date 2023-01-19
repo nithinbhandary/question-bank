@@ -338,3 +338,128 @@ NPM_CONFIG_PREFIX=~/.npm-global
 npm install -g firebase-tools
 npm audit fix
 npm ci
+npm cache clean --force
+npm install
+cat /home/nithinbhandry_gcp/.npm/_logs/2023-01-19T17_06_57_513Z-debug-0.log
+npm install -g firebase-tools
+npm upgrade
+npm fund
+npm audit
+npm install
+npm@5 install
+npm@5
+npm ci
+ls -lart
+npm run build
+cat package-lock.json
+npm ci
+npm ci help
+sudo yum upgrade npm
+sudo yum update npm
+
+npm install -g firebase-tools --save
+ls -la
+gid add .
+git add .
+git status
+git commit -m "second"
+git status
+git push origin master
+cd public/
+ls
+vim script.js 
+cd
+npm init
+ls -lrt
+cd /home/runner/work/question-bank/question-bank/
+cd /home/
+ls
+npm ci
+cd
+npm ci
+npm install
+npm install -g firebase-tools --save
+npm ci
+npm install
+ls
+ls -lart
+cat 
+cat package-lock.json
+git add .
+git add --all
+git commit -m "third"
+git push origin master
+npm run
+npm run build
+ls
+cd public/
+npm run build
+cat /home/nithinbhandry_gcp/.npm/_logs/2023-01-19T17_50_15_410Z-debug-0.log
+ls -la
+npm run
+cd
+ls
+ls -la
+cat firebase.json
+cd .firebase
+ls
+ls -la
+cd
+cat package.json 
+npm install firebase-tools -g
+npm run build
+firebase init
+git status
+git add .
+git commit -m "fc"
+git push origin master
+vim package.json 
+git add .
+npm run build
+vim package.json 
+ls -lart
+vim package.json 
+npm run build
+vim package.json 
+npm run build
+git add .
+git commit -m "final"
+git push origin master
+npm get prefix
+vim .bash_profile 
+source .bash_profile
+npm install --save firebase
+vim .bash_profile 
+source .bash_profile
+firebase deploy
+npm run build
+npm install --save firebase
+npm install firebase-tools -g
+vim package.json 
+ls -lart
+cd .npm-global
+ls
+cd bin/
+ls
+cd ../..
+cd .npn
+cd
+cd .npn
+ls -lart
+cd .npm
+ls
+vim package-lock.json
+cd
+vim package-lock.json
+ls -la
+cd node_modules
+ls
+cd firebase/
+ls
+cd
+npm -i g firebase-tools
+npm install -g firebase-tools
+ls -lart
+vim firebase.json
+vim .bash_profile 
+source .bash_profile 
