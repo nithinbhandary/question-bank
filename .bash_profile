@@ -10,3 +10,4 @@ fi
 PATH=$PATH:$HOME/.local/bin:$HOME/bin
 
 export PATH
+export PATH=~/.npm-global/bin:$PATH

@@ -8,8 +8,9 @@
 # hlsearch on (H) or off (h):
 ~H
 # Command Line History (newest to oldest):
-:q
 :wq
+:q
+:q!
 
 # Search String History (newest to oldest):
 
@@ -22,22 +23,30 @@
 # Registers:
 
 # File marks:
-'0  24  2  ~/public/index.html
-'1  1  0  ~/firebase.json
-'2  1  0  ~/public/404.html
-'3  1  0  ~/in
-'4  83  1  ~/public/script.js
-'5  60  0  ~/public/style.css
-'6  65  6  ~/public/index.html
-'7  461  2  ~/public/App.Js
-'8  58  0  ~/public/Style1.Css
+'0  13  34  ~/.bash_profile
+'1  1  0  ~/.bashprofile
+'2  1  0  ~/package-lock.json
+'3  3  34  ~/public/script.js
+'4  2  2  ~/public/script.js
+'5  24  2  ~/public/index.html
+'6  1  0  ~/firebase.json
+'7  1  0  ~/public/404.html
+'8  1  0  ~/in
+'9  84  1  ~/public/script.js
 
 # Jumplist (newest first):
+-'  13  34  ~/.bash_profile
+-'  1  0  ~/.bash_profile
+-'  1  0  ~/.bashprofile
+-'  1  0  ~/package-lock.json
+-'  3  34  ~/public/script.js
+-'  2  4  ~/public/script.js
+-'  4  42  ~/public/script.js
+-'  84  4  ~/public/script.js
 -'  24  2  ~/public/index.html
 -'  1  0  ~/firebase.json
 -'  1  0  ~/public/404.html
 -'  1  0  ~/in
--'  83  1  ~/public/script.js
 -'  1  0  ~/public/script.js
 -'  60  0  ~/public/style.css
 -'  1  0  ~/public/style.css
@@ -122,13 +131,31 @@
 -'  1  0  ~/public/App.Js
 -'  58  0  ~/public/Style1.Css
 -'  1  0  ~/in
--'  83  1  ~/public/script.js
--'  1  0  ~/public/script.js
 -'  60  0  ~/public/style.css
 -'  1  0  ~/public/style.css
 -'  461  2  ~/public/App.Js
 
 # History of marks within files (newest to oldest):
+
+> ~/.bash_profile
+	"	13	34
+	^	13	35
+	.	13	0
+	+	13	0
+
+> ~/.bashprofile
+	"	1	0
+
+> ~/package-lock.json
+	"	1	0
+
+> ~/public/script.js
+	"	3	34
+	^	3	35
+	.	3	34
+	+	84	0
+	+	2	2
+	+	3	34
 
 > ~/public/index.html
 	"	24	2
@@ -145,12 +172,6 @@
 
 > ~/in
 	"	1	0
-
-> ~/public/script.js
-	"	83	1
-	^	83	2
-	.	83	0
-	+	83	0
 
 > ~/public/style.css
 	"	60	0
