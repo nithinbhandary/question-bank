@@ -12,8 +12,8 @@
 
 # Command Line History (newest to oldest):
 :wq
-:q
 :q!
+:q
 
 # Search String History (newest to oldest):
 ? \<export\>
@@ -25,26 +25,30 @@
 # Input Line History (newest to oldest):
 
 # Registers:
+""-	CHAR	0
+	 
 
 # File marks:
-'0  13  0  ~/.bash_profile
-'1  2  0  ~/firebase.json
-'2  1  0  ~/package-lock.json
-'3  1  0  ~/.npm/package-lock.json
-'4  8  4  ~/package.json
-'5  7  57  ~/package.json
-'6  2  1  ~/package.json
-'7  1  4  ~/public/script.js
-'8  1  0  ~/.bashprofile
-'9  3  34  ~/public/script.js
+'0  13  86  ~/.bash_profile
+'1  14  52  ~/.bash_profile
+'2  8  19  ~/package.json
+'3  1  0  ~/node_modules/firebase/remote-config/package.json
+'4  2  0  ~/firebase.json
+'5  1  0  ~/package-lock.json
+'6  1  0  ~/.npm/package-lock.json
+'7  7  57  ~/package.json
+'8  2  1  ~/package.json
+'9  1  4  ~/public/script.js
 
 # Jumplist (newest first):
--'  13  0  ~/.bash_profile
+-'  13  86  ~/.bash_profile
+-'  14  0  ~/.bash_profile
+-'  8  19  ~/package.json
+-'  1  0  ~/node_modules/firebase/remote-config/package.json
 -'  2  0  ~/firebase.json
 -'  1  0  ~/firebase.json
 -'  1  0  ~/package-lock.json
 -'  1  0  ~/.npm/package-lock.json
--'  8  4  ~/package.json
 -'  7  4  ~/package.json
 -'  2  2  ~/package.json
 -'  1  0  ~/package.json
@@ -134,16 +138,27 @@
 -'  461  2  ~/public/App.Js
 -'  1  0  ~/public/App.Js
 -'  58  0  ~/public/Style1.Css
--'  1  0  ~/public/Style1.Css
--'  58  0  ~/public/Style1.Css
 
 # History of marks within files (newest to oldest):
 
 > ~/.bash_profile
-	"	13	0
-	^	13	0
-	.	13	0
-	+	13	0
+	"	13	86
+	^	13	87
+	.	13	12
+	+	13	57
+	+	14	0
+	+	13	12
+
+> ~/package.json
+	"	8	19
+	^	8	20
+	.	8	22
+	+	8	23
+	+	7	57
+	+	8	22
+
+> ~/node_modules/firebase/remote-config/package.json
+	"	1	0
 
 > ~/firebase.json
 	"	2	0
@@ -153,14 +168,6 @@
 
 > ~/.npm/package-lock.json
 	"	1	0
-
-> ~/package.json
-	"	8	4
-	^	8	29
-	.	8	28
-	+	8	23
-	+	7	57
-	+	8	28
 
 > ~/public/script.js
 	"	1	4

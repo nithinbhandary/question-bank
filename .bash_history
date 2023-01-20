@@ -469,3 +469,101 @@ git add .
 git commit -m "nit"
 git push origin master
 sudo su -
+git status
+git add .
+git commit -m "bash"
+git push origin master
+firebase deploy
+curl -sL https://firebase.tools | upgrade=true bash
+sudo curl -sL https://firebase.tools | upgrade=true bash
+ls
+ls -la
+cd .git
+ls
+cd ..
+cd .github/
+ls
+cd workflows/
+ls
+ls -la
+cd ..
+ls -la
+cd ..
+ls -la
+cd .npm
+ls
+cd node_modules
+cd ../node_modules/
+ls
+cd npm
+cd firebase/
+ls
+cd remote-config/
+ls
+vim package.json 
+cd dist/
+ls
+cd
+npm i firebase --save
+vim package.json 
+cd public/
+firbase
+firebase
+npm run build
+npm run
+npm install --save firebase
+npm init
+ls
+ls -la
+firebase init
+cd
+ls
+ls -la
+cat package-lock.json
+npm config get prefix
+cd /home/nithinbhandry_gcp/.npm-global
+ls
+cd bin/
+ls
+cd
+vim .bash_profile 
+echo firebase
+which firbase
+which firebase
+source .bash_profile 
+cd /home/nithinbhandry_gcp/.npm-global
+cd bin/
+ls -lart
+yarn bin
+history
+ls -lart
+cd ../lib/node_modules/firebase-tools/lib/bin/firebase.js
+pwd
+cd
+cd node_modules/firebase
+ls
+which firebase
+cd firebase-
+cd 
+cd /home/nithinbhandry_gcp/.npm-global/bin
+cd ..
+ls
+cd lib/
+ls
+cd node_modules/
+ls
+cd firebase-tools/
+ls
+cd lib/
+ls
+cd bin/
+ls
+./firebase.js 
+pwd
+cd 
+cd .npm
+;ls
+ls
+cd
+vim .bash_profile 
+source .bash_profile

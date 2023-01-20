@@ -18,6 +18,6 @@
   },
   "homepage": "https://github.com/nithinbhandary/question-bank#readme",
   "dependencies": {
-    "firebase": "^9.15.0"
+    "firebase": "^9.16.0"
   }
 }

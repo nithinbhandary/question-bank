@@ -10,4 +10,5 @@ fi
 PATH=$PATH:$HOME/.local/bin:$HOME/bin
 
 export PATH
-export PATH=/home/nithinbhandry_gcp/.npm-global/bin:$PATH
+export PATH=/home/nithinbhandry_gcp/.npm-global/lib/node_modules/firebase-tools/lib/bin:$PATH
+alias firebase="`npm config get prefix`/bin/firebase"
