@@ -463,3 +463,9 @@ ls -lart
 vim firebase.json
 vim .bash_profile 
 source .bash_profile 
+echo $PATH
+git add
+git add .
+git commit -m "nit"
+git push origin master
+sudo su -
