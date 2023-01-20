@@ -567,3 +567,45 @@ ls
 cd
 vim .bash_profile 
 source .bash_profile
+firebase
+npm install -g firebase-tools                                            
+firebase --version
+cd
+git status
+git add .
+git commit -m "add"
+git push origin master
+vim package.json 
+npm init
+git add .
+git commit -m "pkg"
+git push origin master
+npm config get prefix
+ls
+cd node_modules/
+ls
+cd npm
+ls -lart
+cd .bin/
+ls
+cd ..
+cd firebase/
+ls
+cd ../@firebase
+ls
+ls -lart
+cd ..
+firebase
+sudo su -
+firbase functions:shell
+firebase functions:shell
+vim firebase.json
+cd public/
+ls
+ls -la
+cd
+ls -lart
+vim .bashrc
+vim .bash_profile 
+vim .bashrc
+source .bashrc 
